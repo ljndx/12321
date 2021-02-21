@@ -10,8 +10,8 @@
     },
     "files": [
         "README.md",
-        "MCP23017.blocks",
-        "MCP23017.ts"
+        "main.blocks",
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
