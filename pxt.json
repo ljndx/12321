@@ -1,0 +1,24 @@
+{
+    "name": "MCP23017",
+    "version": "0.0.0",
+    "description": "test",
+    "license": "111",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "MCP23017.blocks",
+        "MCP23017.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
